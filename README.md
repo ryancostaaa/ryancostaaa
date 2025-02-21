@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Costa)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Ryan+Costa)](https://git.io/typing-svg)
 **`Computer Science Major (Software Engineer/Developer/)`**
+
 <p>A frontend developer with a Computer Science Major from Rutgers in New Jersey</p>
 <p>Here you can find languages that I am familiar with and contributions i've made on my past projects</p>
 <h2>🚀 Languages and Tools I Use</h2>
